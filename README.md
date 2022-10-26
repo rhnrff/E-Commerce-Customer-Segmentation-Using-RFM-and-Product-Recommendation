@@ -24,7 +24,7 @@ From the overview above, we can then derive objectives which will be used to sha
 * Cosine Similarity for Product Recommendation
 * Kmeans Clustering for Segmenting Customer and Product
 
-## Authors Hacktive8 001-HCK Group 1
+## Authors
 
 Contributors names
 
